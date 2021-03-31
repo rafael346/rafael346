@@ -5,7 +5,7 @@
       
        
        
-:diamonds: Aprimorando: **React-Native, React, Java, Python**  
+:diamonds: Aprimorando: **React-Native, ReactJs, Java, Python**  
 
 📖 Estudando: **Kotlin, NodeJS**
 

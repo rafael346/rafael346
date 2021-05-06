@@ -5,9 +5,9 @@
       
        
        
-:diamonds: Aprimorando: **React-Native, ReactJs**  
+:diamonds: Aprimorando: **React-Native, ReactJs , TypeScript, NextJS**  
 
-📖 Estudando: **Kotlin, NodeJS**
+📖 Estudando: **NodeJS**
 
 
 

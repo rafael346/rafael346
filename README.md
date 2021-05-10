@@ -7,9 +7,6 @@
        
 :diamonds: Aprimorando: **React-Native, ReactJs , TypeScript, NextJS**  
 
-📖 Estudando: **NodeJS**
-
-
 
 
 ### Tecnologias

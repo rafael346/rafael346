@@ -1,5 +1,5 @@
 # **Rafael Sousa**  
-#### **Front-End Developer**
+#### **Front-End Developer Pleno**
 
 
   
@@ -20,3 +20,4 @@ src="https://webassets.mongodb.com/_com_assets/cms/realm_logo-7o6az6770h.svg" wi
   
   
 
+*Obs: A maioria dos projetos foram feitos apenas para fins de aprendizagem e não refletem totalmente meu conhecimento, apenas o que na epoca em que eu desenvolvi estava estudando. Como todo desenvolvedor estou sempre me aprimorando :)

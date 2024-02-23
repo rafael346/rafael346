@@ -1,5 +1,5 @@
 # **Rafael Sousa**  
-#### **Front-End Developer Pleno**
+#### **Front-End Developer **
 
 
   

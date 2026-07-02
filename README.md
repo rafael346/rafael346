@@ -1,5 +1,5 @@
 # **Rafael Sousa**  
-#### **FullStack Develope**
+#### **FullStack Developer**
 
 
   
